@@ -1,0 +1,146 @@
+﻿[
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "student"
+      ],
+      "properties": {
+        "name": "Devdatta",
+        "YOB": 1999,
+        "POB": "Pune"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "company"
+      ],
+      "properties": {
+        "name": "BinaryDots"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "department"
+      ],
+      "properties": {
+        "name": "R&D"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "department"
+      ],
+      "properties": {
+        "name": "HR"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "department"
+      ],
+      "properties": {
+        "name": "Finance"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "department"
+      ],
+      "properties": {
+        "name": "Web"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "friend"
+      ],
+      "properties": {
+        "name": "node1",
+        "YOB": 1999,
+        "POB": "Delhi"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "friend"
+      ],
+      "properties": {
+        "name": "node2",
+        "YOB": 1985,
+        "POB": "Mumbai"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "friend"
+      ],
+      "properties": {
+        "name": "node3",
+        "YOB": 1997,
+        "POB": "Delhi"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "friend"
+      ],
+      "properties": {
+        "name": "node4",
+        "YOB": 1985,
+        "POB": "Delhi"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "friend"
+      ],
+      "properties": {
+        "name": "node5",
+        "YOB": 1993,
+        "POB": "Pune"
+      }
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "department"
+      ],
+      "properties": {
+        "name": "Deep Learning"
+      }
+    }
+  }
+]
